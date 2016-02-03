@@ -1,0 +1,6 @@
+web:
+  image: silexlabs/silex
+  environment:
+    - PORT=80
+  expose:
+    - "80"
